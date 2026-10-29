@@ -1,0 +1,8 @@
+{
+  "name": "Shopfront Loja",
+  "description": "Loja virtual completa inspirada no Mercado Livre com catálogo de produtos, carrinho, checkout Pix/Cartão e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
